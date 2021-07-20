@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Airplan</string>
+
+    <string name="people_max_input_error">Не доступно больше чем %d человека</string>
+
+    <string name="flight_destination_choose">Выберите направление</string>
+    <string name="flight_destination_hint">В</string>
+
+    <string name="hotels">Отели</string>
+    <string name="tickets">Авиабилеты</string>
+    <string name="choose_date">Выберите дату</string>
+    <string name="cabin_class_economy">Эконом</string>
+    <string name="cabin_class_buisness">Бизнес</string>
+    <string name="cabin_class_choose">Класс обслуживания</string>
+
+    <string name="calendar_back">Назад</string>
+</resources>
